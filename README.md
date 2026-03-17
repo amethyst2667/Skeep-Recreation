@@ -11,10 +11,17 @@ Basic Login Screen GUI
 
 
 Incomplete:
-Login and Connection to a server
-Main Home screen
-Texting functionality
-Calling functionality
-Settings menu
-Proxy options
-Server application
+
+Login and Connection to a server,
+
+Main Home screen,
+
+Texting functionality,
+
+Calling functionality,
+
+Settings menu,
+
+Proxy options,
+
+Server application,
