@@ -7,6 +7,7 @@ Our main goal with this project is to learn more about VoIP and running a large 
 ## Current Progress
 
 Completed:
+
 Basic Login Screen GUI
 
 
